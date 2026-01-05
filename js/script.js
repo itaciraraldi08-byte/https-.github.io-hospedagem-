@@ -1,0 +1,1 @@
+console.log("Plataforma de hospedagem carregada com sucesso.");
